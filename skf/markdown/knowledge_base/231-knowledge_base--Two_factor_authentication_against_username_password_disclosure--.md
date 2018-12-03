@@ -1,7 +1,7 @@
 ## Description:
 
 Whenever the users username and passwords are disclosed by an application on what ever fashion possible, the 
-users account should still be proteced by two factor authentication mechanisms to prevent attackers
+users account should still be protected by two factor authentication mechanisms to prevent attackers
 from logging in with the credentials.
 
 
